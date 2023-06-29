@@ -2,8 +2,8 @@
 #language-translator #googleapi #python
 
 # to install required module
-$pip install tkinter
-$pip install googletrans
+#$pip install tkinter
+#$pip install googletrans
 
 
 
